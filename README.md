@@ -33,13 +33,16 @@ The EDA leverages the following key datasets:
 ## Project Structure
 
 ```
-project-root/
+vendor-performance-analysis/
 │
-├── data/                # Raw input datasets (not public)
-├── notebooks/           # Jupyter notebooks for data analysis
-├── src/                 # Python scripts (for cleaning, processing, stats)
-├── report/              # Detailed project and EDA reports
-└── README.md            # This file
+├── data.zip/                               # Raw input datasets (not public)
+├── EDA.ipynb/                              # Jupyter notebooks for data analysis
+├── Vendor Performance Analysis.ipynb/      # Python scripts (for cleaning, processing, stats)
+├── ingestion_db.py/                        #Python script to record the logs
+├── ingestion_db.log/                       #Log file
+├── Dashboard_VPA.png/                      #Screenshot of Power BI Dashboard
+├── REPORT_Exploratory Data Analysis/       # Detailed project and EDA reports
+└── README.md/                              # This file is the overall summarized content of the findings
 ```
 
 ## How to Use
