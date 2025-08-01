@@ -63,7 +63,7 @@ A detailed summary of analyses, insights, and recommendations is available in:
 
 - `report/REPORT_Exploratory-Data-Analysis.docx`
 
-## Contributing
+## Contributions
 
 Contributions, suggestions, and improvements are welcome! Please open an issue or create a pull request.
 
